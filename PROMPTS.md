@@ -38,7 +38,6 @@ The core product loop is:
 
 The first major prompt given to the AI was:
 
-> [PASTE THE ORIGINAL ABTALKS DESIGN BRIEF OR YOUR ORIGINAL PROMPT HERE]
 
 The prompt established:
 
